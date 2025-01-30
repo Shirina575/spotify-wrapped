@@ -1,5 +1,8 @@
 # Spotify Wrapped - Interactive Analytics Dashboard
 **Spotify Wrapped** is an engaging and interactive dashboard that visualizes Spotify listening habits over the past years.  It is divided into multiple sections with key performance indicators (KPIs) and interactive charts that explore my listening patterns in depth.
+
+![Spotify Wrapped - Interactive Analytics Dashboard](image/Spotify_wrapped.png)
+
 ## Spotify Insights:
 
 ### Key Performance Indicators (KPIs):
@@ -29,7 +32,7 @@ These KPIs are displayed in a sleek, card-based format, making it easy to unders
 
 By combining these interactive charts and insights, the dashboard allows users to fully explore my music habits and preferences in a dynamic, engaging way. Whether you're interested in top artists, skipped songs, or platform usage, this project provides a comprehensive look at my Spotify listening activity.
 
-**Note:** There's another version of this project built with Power BI. Feel free to check it out [here on Maven Analytics](https://app.mavenanalytics.io/portfolio/26043).
+**Note:** There's another version of this project built with Power BI. Feel free to check it out [here on Maven Analytics](https://mavenanalytics.io/project/26043).
 
 Also, if you would like to view all the steps in details, check out this [Medium Article](https://medium.com/@msk-shirina)
 
